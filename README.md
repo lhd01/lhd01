@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, eu  lhd01  mais conhecido como Lucas Henrique Dutra eterno aprendiz em desenvolvimento de Software.   
 
-<!--
-**lhd01/lhd01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on  projes e Bootcamps da DIO - Digital Innovation .
+- 🌱 I’m currently aprendendo Tecnologias para me tornar full stack , espero chega lá.
+- 👯 I’m looking to collaborate on projetos para adicionar ao meu portifólio.
+- 🤔 I’m looking for help with  tecnologias  de Back e Front END.
+
+- 📫 How to reach me:  E-mail: lucas.dutra07@hotmail.com
+
+
+
